@@ -1,0 +1,3 @@
+# CppStuff
+
+Various C++ projects
